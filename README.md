@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  ![Profile views](https://komarev.com/ghpvc/?username=NoahOnFyre&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=NoahOnFyre&style=for-the-badge"></img>
 </div>
 
 ###
