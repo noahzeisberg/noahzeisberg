@@ -4,8 +4,6 @@
 
 <p align="left">I'm Noah, a Python, Java and Web developer.</p>
 
-<t:1248157980:R>
-
 ###
 
 <div align="left">
