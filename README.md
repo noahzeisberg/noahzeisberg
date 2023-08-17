@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Noah, a Python, Java and Web developer.</p>
+<p align="left">I'm Noah, a Go, Python, Java and Web developer.</p>
 
 ###
 
