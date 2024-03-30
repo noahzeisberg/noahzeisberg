@@ -4,6 +4,7 @@
 
 ###
 
+<h2>Socials:</h2>
 <div align="left">
   <a href="https://dsc.gg/nyronium"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/></a>
   <a href="https://github.com/noahzeisberg"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/></a>
@@ -13,6 +14,7 @@
 
 ###
 
+<h2>Technologies:</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"/>
