@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"/>
