@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 
-<p align="left">I'm Noah, a 14 year old developer from Germany.</p>
+<p align="left">I'm Noah, a software developer from Germany.</p>
 
 ###
 
