@@ -37,7 +37,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"/>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"/>
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"/>
 </div>
 
