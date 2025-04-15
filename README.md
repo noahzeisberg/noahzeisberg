@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="6" />
